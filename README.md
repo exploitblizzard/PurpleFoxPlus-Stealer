@@ -9,7 +9,6 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCKF4IhTDSy-cmGVPHlhl50A" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" alt="https://www.youtube.com/channel/uckf4ihtdsy-cmgvphlhl50a" height="30" width="40" /></a>
 <a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/MJjwryfX9" height="30" width="40" /></a>
-<a href="https://t.me/purplefoxplus" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" alt="https://t.me/purplefoxplus" height="30" width="40" /></a>
 </p>
 
 
@@ -20,7 +19,7 @@
 <br> </br>
 
 # 🔗 Join Channel
-<b><i><h4> Join Telegram Channel: [![Telegram](https://img.shields.io/badge/Telegram-@purplefoxplus-2CA5E0?logo=telegram)](https://t.me/purplefoxplus) </h4></b></i>
+<b><i><h4> Join Channel: <a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/MJjwryfX9" height="30" width="40" /></a> </h4></b></i>
 <br> </br>
 
 # 🥇 Features
@@ -45,7 +44,6 @@
 <br> </br>
 
 # 🧐 How It Works
-* Purple fox plus stealer ***[ Video On Telegram Channel ]*** : https://t.me/purplefoxplus
 * Youtube: https://youtu.be/exODs5Iy3vY
 <br> </br>
 
