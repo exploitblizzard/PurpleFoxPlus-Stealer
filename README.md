@@ -51,6 +51,6 @@
 <br> </br>
 
 # ✔ Fully Undetectable 
-* 100% FUD ***[Runtime and scantime]*** - FUD Updated Date : 1 Aug 2021
+* 100% FUD ***[Runtime and scantime]*** - FUD, Updated Date : 1 Aug 2021
 
 <img src="https://antiscan.me/images/result/GBSa0sk0Vei9.png">
