@@ -19,7 +19,8 @@
 <br> </br>
 
 # 🔗 Join Channel
-<b><i><h4> Join Channel:  [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts)
+<b><i><h4> Contact Me To Get The License :  [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts)</b></i></h4>
+<b><i><h4> Get Free Demo: [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts)</b></i></h4> 
 <br> </br>
 
 # 🥇 Features
