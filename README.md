@@ -39,6 +39,7 @@
 * Real-Time Incoming Notification
 * FTP Logs ***[Only FileZilla]***
 * PDF-EXE With Source ***[When executed: Opens Your PDF file in front]*** 🔥
+* 100% FUD ***[Runtime and scantime]***
 <br> </br>
 
 # 🤯 Beta Version : Upcoming update/release
