@@ -9,18 +9,19 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCKF4IhTDSy-cmGVPHlhl50A" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" alt="https://www.youtube.com/channel/uckf4ihtdsy-cmgvphlhl50a" height="30" width="40" /></a>
 <a href="https://t.me/purplecrafts" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" alt="https://t.me/purplecrafts" height="30" width="40" /></a>
+<a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
 </p>
 
 
 # ❗ Must Read
-<b> Join telegram channel to buy the License.</b> <br></br>
+<b> Join channel to get the License.</b> <br></br>
 <i>Serverless License : Provides hustle free expirence 🔥</i><br></br>
 <i> I have tried to make a serverless and hassle-free approach with this stealer, easy to carry. You get two builds with your custom configs.</i>
 <br> </br>
 
 # 🔗 Join Channel
-<b><i><h4> Contact Me To Get The License :  [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts)</b></i></h4>
-<b><i><h4> Get Free Demo: [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts)</b></i></h4> 
+<b><i><h4> Contact Me To Get The License :  <a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a></b></i></h4>
+<b><i><h4> Demo: [![Telegram](https://img.shields.io/badge/Telegram-@purplecrafts-2CA5E0?logo=telegram)](https://t.me/purplecrafts) / <a href="https://discord.gg/MJjwryfX9B" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a> / Youtube: https://youtu.be/exODs5Iy3vY </b></i></h4> 
 <br> </br>
 
 # 🥇 Features
